@@ -5,5 +5,6 @@ Resultado en consola ejercicio 1:
 Resultado en consola ejercicio 2:
 ![image](https://github.com/user-attachments/assets/3fa63778-e8bd-42df-a0b9-7ab8c1c0ab25)
 Resultado en consola ejercicio 3:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/587a05d4-8c74-4910-8451-2aa7cedcb33b)
+
 
